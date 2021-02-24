@@ -11,3 +11,7 @@ Here are some information about me:
 - 📫 How to reach me: 
   - Mail: [remniov.work@gmail.com](mailto:remniov.work@gmail.com)
   - LinkedIn: https://www.linkedin.com/in/glebremniov/
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glebremniov&layout=compact&hide=html)](https://github.com/glebremniov/glebremniov)
