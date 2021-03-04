@@ -2,9 +2,9 @@
 
 Here are some information about me:
 
-- 🎓 I have a bachelor's degree in Belarusian State University of Informatics and Radioelectronics
-- 💼 I’m currently working with Java, JavaScript, [Groovy](https://groovy-lang.org) & [Grails](https://grails.org) stack + React.js
-- 🌱 I’m currently learning Spring Boot and related stuff
+- 🎓 I have a bachelor's degree as economist-programmer in Belarusian State University of Informatics and Radioelectronics
+- 💼 I’m currently coding Java, JavaScript, [Groovy](https://groovy-lang.org) & [Grails](https://grails.org) stack + React.js
+- 🌱 I’m currently digging into Spring Boot and related stuff
 - 💻 I'm full in love with MacOS and others Apple products
 - 💬 Ask me whatever you want
 - 📫 How to reach me: 
