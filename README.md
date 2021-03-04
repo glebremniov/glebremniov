@@ -6,7 +6,6 @@ Here are some information about me:
 - 💼 I’m currently working with Java, JavaScript, [Groovy](https://groovy-lang.org) & [Grails](https://grails.org) stack + React.js
 - 🌱 I’m currently learning Spring Boot and related stuff
 - 💻 I'm full in love with MacOS and others Apple products
-- My hobbies are ice hockey 🏒, visual design 🪄 and finance 💸 
 - 💬 Ask me whatever you want
 - 📫 How to reach me: 
   - Mail: [remniov.work@gmail.com](mailto:remniov.work@gmail.com)
