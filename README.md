@@ -8,5 +8,5 @@ Here are some information about me:
 - 💻 I'm full in love with MacOS and others Apple products
 - 💬 Ask me whatever you want
 - 📫 How to reach me: 
-  - Mail: [remniov.work@gmail.com](mailto:remniov.work@gmail.com)
+  - Mail: [g.remniov@gmail.com](mailto:g.remniov@gmail.com) or [remniov.work@gmail.com](mailto:remniov.work@gmail.com)
   - LinkedIn: https://www.linkedin.com/in/glebremniov/
