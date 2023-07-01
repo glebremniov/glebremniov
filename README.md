@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is **Gleb Remniov** (or **Hleb Ramniou** from the Belarussian language).
-I'm a java software engineer from Belarus, but currently living in Vilnus, Lithuania.
+I'm a java software engineer from Belarus, but currently living ~~la vida loca~~ in Vilnus, Lithuania.
 
 #### Here are some facts about me 
 - My primary stack is Java and related backend techologies.
