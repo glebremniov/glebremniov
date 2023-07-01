@@ -1,12 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-Here are some information about me:
+My name is **Gleb Remniov** (or **Hleb Ramniou** from the Belarussian language).
+I'm a java software engineer from Belarus, but currently living in Vilnus, Lithuania.
 
-- 🎓 I have a bachelor's degree as economist-programmer in Belarusian State University of Informatics and Radioelectronics
-- 💼 I’m currently coding Java, JavaScript, [Groovy](https://groovy-lang.org) & [Grails](https://grails.org) stack + React.js
-- 🌱 I’m currently digging into Spring Boot and related stuff
-- 💻 I'm full in love with MacOS and others Apple products
-- 💬 Ask me whatever you want
+#### Here are some facts about me 
+- My primary stack is Java and related backend techologies.
+- At the same time, I like coding small frontend apps for my personal needs.
+- I like MacOS and others Apple products
 - 📫 How to reach me: 
   - Mail: [g.remniov@gmail.com](mailto:g.remniov@gmail.com) or [remniov.work@gmail.com](mailto:remniov.work@gmail.com)
   - LinkedIn: https://www.linkedin.com/in/glebremniov/
