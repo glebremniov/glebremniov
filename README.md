@@ -1,8 +1,14 @@
 ## Hi there 👋
 
 ### A short bio
+
+
 My name is **Gleb Remniov** (or **Hleb Ramniou** from the Belarussian language).
+
+
 I was born and raised in Minsk the capital of Belarus, but currently living ~~la vida loca~~ in Vilnus, Lithuania.
+
+
 I'm a Java software engineer with more than 4 years commercial experience. Working both as full-stack and back-end developer. Passionate about coding and solving business problems.
 
 #### Here are some facts about me 
